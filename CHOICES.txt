@@ -4,8 +4,12 @@ First Choice: Stick with the PB&J your mom packed you. You're really looking for
 Second Choice: Get to work helping. Take a look around the room. Look for people and things that look suspicious or stand out. The sooner begun, the sooner done.
 Third Choice: Approach Helga and the Doctor
 Fourth Choice: Listen in on what they're saying
-Fifth Choice: Approach Billy
 Sikth Choice: Listen in on what he's saying
+Seventh Choice: Approach Danny
+
 
 CLUE: Helga was standing nearest to Mr. Body when the murder took place, and had the clearest path to him.
+
 CLUE: Billy seems to be making a lot of silly excuses for some reason
+
+CLUE: Danny was standing right beside the light switches when they went off, he's the most likely person to have turned out the lights.
