@@ -5,3 +5,5 @@ Second Choice: Get to work helping. Take a look around the room. Look for people
 Third Choice: Approach Danny
 Fourth Choice: Accuse Danny Decrement
 Fifth Choice: ____
+
+CLUE: Danny was standing right beside the light switches when they went off, he's the most likely person to have turned out the lights.
